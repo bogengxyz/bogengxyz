@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bogeng.xyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nesca677) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fenesca8@gmail.com)
 
 
-<div style="border: 2px dashed #000000ff; border-radius: 15px; padding: 20px; margin: 20px auto; max-width: 1000px;">
+<div style="border: 2px dashed #000000ff; border-radius: 15px; padding: 20px; margin: 20px auto; max-width: 600px;">
 
 
 #### 💻 Tech Stack:
